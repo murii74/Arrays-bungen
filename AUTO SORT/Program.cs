@@ -47,6 +47,7 @@ namespace AUTO_SORT
             for (int i = 0; i <= daten.Length - 1; i++)
             {
                 Console.Write(daten[i]);
+                Console.Write(", ");
 
 
 
