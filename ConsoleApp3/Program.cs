@@ -19,7 +19,7 @@ namespace arrays
             
             for (int anzahlSchul = 0; anzahlSchul < anzahlschueler; anzahlSchul++)
             {
-                int Anzah = 0;
+                int Anzahl = 0;
 
                 
                 Console.WriteLine("Schüler {0}", anzahlSchul);
