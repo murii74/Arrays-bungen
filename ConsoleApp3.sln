@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{724B10F9-990D-41AF-AA54-D7A7659CF75F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bubbles", "Bubbles\Bubbles.csproj", "{5DC929DB-A610-42BD-89C4-29762D2FB644}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AUTO SORT", "AUTO SORT\AUTO SORT.csproj", "{17A8007C-B0D7-4838-A984-014C3B1A1422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUTO SORT", "AUTO SORT\AUTO SORT.csproj", "{17A8007C-B0D7-4838-A984-014C3B1A1422}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden", "Methoden\Methoden.csproj", "{550731FD-EA5E-4EB2-9936-574C9C584A79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{724B10F9-990D-41AF-AA54-D7A7659CF75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{724B10F9-990D-41AF-AA54-D7A7659CF75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{724B10F9-990D-41AF-AA54-D7A7659CF75F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5DC929DB-A610-42BD-89C4-29762D2FB644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5DC929DB-A610-42BD-89C4-29762D2FB644}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5DC929DB-A610-42BD-89C4-29762D2FB644}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5DC929DB-A610-42BD-89C4-29762D2FB644}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17A8007C-B0D7-4838-A984-014C3B1A1422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17A8007C-B0D7-4838-A984-014C3B1A1422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A8007C-B0D7-4838-A984-014C3B1A1422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A8007C-B0D7-4838-A984-014C3B1A1422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550731FD-EA5E-4EB2-9936-574C9C584A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550731FD-EA5E-4EB2-9936-574C9C584A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550731FD-EA5E-4EB2-9936-574C9C584A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550731FD-EA5E-4EB2-9936-574C9C584A79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
