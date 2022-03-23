@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="\\BK175055\murtaza.b\Desktop\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>

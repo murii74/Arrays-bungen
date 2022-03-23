@@ -29,6 +29,7 @@ namespace Methoden
                 }
             return Text.Length * durchlauf;
             }
+        
     }
 
 }
